@@ -1,4 +1,4 @@
-package dev.jahir.frames.app
+package xyz.puffercat.blurrywalls.android
 
 import dev.jahir.frames.ui.FramesApplication
 

@@ -1,6 +1,7 @@
-package dev.jahir.frames.app
+package xyz.puffercat.blurrywalls.android
 
 import com.github.javiersantos.piracychecker.PiracyChecker
+import xyz.puffercat.blurrywalls.android.R
 import dev.jahir.frames.ui.activities.FramesActivity
 
 class MainActivity : FramesActivity() {
