@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
     <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
-        <item>https://lh3.googleusercontent.com/-0mdcClKXlgM/AAAAAAAAAAI/AAAAAAAAAAA/xgdLWeAg7pM/s120-c/photo.jpg</item>
-        <item>https://ssl.gstatic.com/images/branding/product/2x/avatar_square_grey_512dp.png</item>
+        <item>https://cdn.puffercat.xyz/c/blurry-wallpapers/logo.png</item>
+        <item>https://cdn.puffercat.xyz/c/branding/logo-basic.png</item>
     </string-array>
 
     <string-array name="credits_titles">
-        <item>Your Name</item>
-        <item>Another Name</item>
+        <item>Blurry Wallpapers</item>
+        <item>Casper Zacharski</item>
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>Details of first credited person</item>
-        <item>Details of another credited person</item>
+        <item>22 Wallpapers with and without grain</item>
+        <item>AKA Puffercat</item>
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>Google+|Instagram</item>
-        <item>Facebook|Website|Twitter</item>
+        <item>Download|Android Source</item>
+        <item>Website|Twitter|GitHub</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://www.google.com/+JahirFiquitivaR|http://instagram.com/jahirfiquitiva</item>
-        <item>https://facebook.com/|https://jahir.dev/|https://twitter.com/jahirfiquitiva</item>
+        <item>https://puffercat.gumroad.com/l/blurrywalls|https://github.com/KZacharski/blurry-wallpapers</item>
+        <item>https://puffercat.xyz|https://twitter.com/puffercatt|https://github.com/KZacharski</item>
     </string-array>
 </resources>
